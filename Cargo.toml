@@ -2,7 +2,7 @@
 name = "git-chronos"
 version = "0.1.0"
 edition = "2021"
-authors = ["Antigravity Team <antigravity@google.com>"]
+authors = ["Ritesh"]
 description = "Animated git history timeline visualization generator"
 
 [dependencies]
